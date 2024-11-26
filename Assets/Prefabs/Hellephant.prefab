@@ -428,7 +428,7 @@ MonoBehaviour:
   startingHealth: 1000
   currentHealth: 0
   sinkSpeed: 1
-  scoreValue: 200
+  scoreValue: 1000
   deathClip: {fileID: 8300000, guid: 8c615fd0429f34edf85539d70279360d, type: 3}
   burnClip: {fileID: 8300000, guid: a8e7abd2ae9173148b5f78180d2ee5a9, type: 3}
   deathParticles: {fileID: 19800000}
